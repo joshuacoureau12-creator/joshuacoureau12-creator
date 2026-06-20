@@ -2,7 +2,7 @@
 
 🎓 Master en Mathématiques Fondamentales (Université de Bordeaux)
 👨‍🏫 Professeur de mathématiques au collège depuis 3 ans
-📈 En reconversion vers la **finance quantitative** — quant research, risk, model validation
+📈 En reconversion vers la **finance quantitative** — quant research, risk, model validation, quant analyst
 
 Je construis une expertise solide en pricing, gestion des risques et calcul stochastique, en m'appuyant sur ma formation mathématique et mon expérience pédagogique pour transformer des concepts complexes en implémentations rigoureuses.
 
