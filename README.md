@@ -33,7 +33,7 @@ Implémentation de Black-Scholes, Monte Carlo (variables antithétiques) et arbr
 - **Mathématiques** : calcul stochastique, processus d'Itô, pricing risque-neutre, optimisation
 - **Programmation** : Python (NumPy, Pandas, SciPy, Matplotlib), Jupyter
 - **Finance quantitative** : pricing d'options, gestion de portefeuille, mesures de risque (VaR/ES)
-- **Référence d'étude actuelle** : *Stochastic Calculus for Finance I* (Shreve), *Options, Futures, and Other Derivatives* (Hull), *The Concepts and Practice of Mathematical Finance* (Mark S. Joshi), *Python for Data Analysis* (Wes McKinney), *Python for Finance* (Yves Hilpisch)
+- **Référence d'étude actuelle** : *Stochastic Calculus for Finance I* (Shreve), *Options, Futures, and Other Derivatives* (Hull), *The Concepts and Practice of Mathematical Finance* (Mark S. Joshi), *Python for Data Analysis* (Wes McKinney), *Python for Finance* (Yves Hilpisch), *Advances in Financial Machine Learning* (Marcos Lopez de Prado)
 
 ---
 
