@@ -41,4 +41,4 @@ Implémentation de Black-Scholes, Monte Carlo (variables antithétiques) et arbr
 
 📧 joshua.coureau12@gmail.com
 
-Ouvert aux opportunités de stage d'observation et d'échanges avec des professionnels du quant research, du risk management ou de la validation de modèles.
+Ouvert aux opportunités de stage d'observation et d'échanges avec des professionnels du quant research ou quant analyst.
